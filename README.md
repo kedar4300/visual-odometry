@@ -6,4 +6,4 @@
   With this project we are aiming to use a fisheye lens for Visual Odometry algorithm and to recover accurate trajectory of the camera moving in an environment.
   
   
-  ![alt text](https://github.com/[kedar4300]/[visual-odometry]/blob/[branch]/image.jpg?raw=true)
+  ![alt text](https://github.com/[kedar4300]/[visual-odometry]/blob/[main]/flowchart.jpg?raw=true)
